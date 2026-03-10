@@ -102,7 +102,7 @@ export SMARTSHEET_WORKSPACE_ID=1502514081228676
 > so they are automatically available in all your Jobs and Workspaces without
 > hardcoding credentials into code.
 >
-> To set them: **Domino → your avatar (top right) → User Settings → Environment Variables**
+> To set them: **Domino → your name (top right) → Account Settings → Environment Variables**
 
 ### 4. Populate Smartsheet with synthetic data
 
