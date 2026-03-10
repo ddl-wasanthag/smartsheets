@@ -1,0 +1,18 @@
+# Claude Code settings
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+ddlctl Troubleshooting Guide.md
